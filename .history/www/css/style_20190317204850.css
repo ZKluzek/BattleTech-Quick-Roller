@@ -1,0 +1,56 @@
+body{
+    background:#E4E4E4;
+}
+select{
+    text-align-last: center;
+    border-radius: 5px;
+    padding: 5px;
+}
+button{
+    /* margin-top: .5vw;
+    margin-bottom: .5vw; */
+    margin: 3vw 0px;
+    border-radius: 6px;
+    padding: 5px 10px;
+}
+#commandButtons{
+    float:right;
+    max-width: 45vw;
+    margin-right: 1vw;
+    margin-top: 1vw;
+    text-align: center;
+}
+#commandButtons > * {
+    border:solid;
+    border-width: 0.5px;
+    border-color: lightgray;
+    border-radius: 10px;
+}
+#rollResults{
+    float:left;
+    max-width: 45vw;
+    margin-left: 1vw;
+    margin-top: 1vw;
+    line-height: 1.5em;
+    text-align: center;
+}
+#numShotsFiredDiv{
+    margin: 10px 0px;
+
+}
+#clearResults{
+    background: #ff725aeb;
+}
+.app{
+    clear:right;
+}
+.title{
+    margin: 10px 0px;
+}
+.hitp{
+    margin: 5px;
+    padding-bottom: 4px;
+    border-bottom: solid;
+    border-width: 1px;
+    border-color: #b7b2b2;
+}

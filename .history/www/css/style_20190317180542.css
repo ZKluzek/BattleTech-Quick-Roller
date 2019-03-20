@@ -1,0 +1,33 @@
+#rollResults{
+    float:left;
+    line-height: 1.5em;
+    margin-left: 2.3em;
+    margin-top: 1em;
+}
+#clearResults{
+
+}
+button{
+    /* margin-top: .5em;
+    margin-bottom: .5em; */
+    margin: 0.5em 0.1em;
+}
+.app{
+    clear:right;
+}
+body{
+    background:#E4E4E4;
+}
+#commandButtons{
+    float:right;
+    margin-right: 2em;
+    margin-top: 1em;
+}
+.title{
+
+}
+.hitp{
+    margin: 0px;
+    padding-bottom: 3px;
+    border-bottom: solid;
+}

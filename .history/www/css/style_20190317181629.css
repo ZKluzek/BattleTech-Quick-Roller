@@ -1,0 +1,38 @@
+body{
+    background:#E4E4E4;
+}
+select{
+    
+}
+button{
+    /* margin-top: .5em;
+    margin-bottom: .5em; */
+    margin: 0.5em 0.1em;
+}
+#commandButtons{
+    float:right;
+    margin-right: 2em;
+    margin-top: 1em;
+    text-align: center;
+}
+#rollResults{
+    float:left;
+    line-height: 1.5em;
+    margin-left: 2.3em;
+    margin-top: 1em;
+}
+#clearResults{
+    background: #ff725aeb;
+}
+.app{
+    clear:right;
+}
+.title{
+
+}
+.hitp{
+    margin: 5px;
+    margin-top: 10px;
+    padding-bottom: 4px;
+    border-bottom: solid;
+}

@@ -1,0 +1,49 @@
+body{
+    background:#E4E4E4;
+}
+select{
+    
+}
+button{
+    /* margin-top: .5em;
+    margin-bottom: .5em; */
+    margin: 0.5em 0px;
+    border-radius: 6px;
+    padding: 5px 10px;
+}
+#commandButtons{
+    float:right;
+    max-width: 40em;
+    margin-right: 1em;
+    margin-top: 1em;
+    text-align: center;
+}
+#rollResults{
+    float:left;
+    max-width: 40em;
+    margin-left: 1em;
+    margin-top: 1em;
+    line-height: 1.5em;
+    text-align: center;
+}
+#numShotsFiredDiv{
+    margin: 10px 0px;
+
+}
+#clearResults{
+    background: #ff725aeb;
+}
+.app{
+    clear:right;
+}
+.title{
+    margin: 10px 0px;
+}
+.hitp{
+    margin: 5px;
+    margin-top: 10px;
+    padding-bottom: 4px;
+    border-bottom: solid;
+    border-width: 1px;
+    border-color: #b7b2b2;
+}
